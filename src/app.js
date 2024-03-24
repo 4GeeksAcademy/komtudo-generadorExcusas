@@ -7,10 +7,10 @@ import "./assets/img/4geeks.ico";
 
 //write your code here
 function generateExcuse() {
-  var who = ["The dog", "My grandma", "The mailman", "My bird"];
-  var action = ["ate", "peed", "crushed", "broke"];
-  var what = ["my homework", "my phone", "the car"];
-  var when = [
+  let who = ["The dog", "My grandma", "The mailman", "My bird"];
+  let action = ["ate", "peed", "crushed", "broke"];
+  let what = ["my homework", "my phone", "the car"];
+  let when = [
     "before the class",
     "when I was sleeping",
     "while I was exercising",
